@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MomenMustafa45/mostaql-task/static/css/main.ddbc5bad.css",
-    "main.js": "/MomenMustafa45/mostaql-task/static/js/main.d306b690.js",
-    "static/js/787.b0bc5460.chunk.js": "/MomenMustafa45/mostaql-task/static/js/787.b0bc5460.chunk.js",
-    "static/media/sven-mieke-_u9lt9KYK1I-unsplash.jpg": "/MomenMustafa45/mostaql-task/static/media/sven-mieke-_u9lt9KYK1I-unsplash.4f97897a19487284d009.jpg",
-    "index.html": "/MomenMustafa45/mostaql-task/index.html",
-    "main.ddbc5bad.css.map": "/MomenMustafa45/mostaql-task/static/css/main.ddbc5bad.css.map",
-    "main.d306b690.js.map": "/MomenMustafa45/mostaql-task/static/js/main.d306b690.js.map",
-    "787.b0bc5460.chunk.js.map": "/MomenMustafa45/mostaql-task/static/js/787.b0bc5460.chunk.js.map"
+    "main.css": "./static/css/main.ddbc5bad.css",
+    "main.js": "./static/js/main.bdbcd17e.js",
+    "static/js/787.b0bc5460.chunk.js": "./static/js/787.b0bc5460.chunk.js",
+    "static/media/sven-mieke-_u9lt9KYK1I-unsplash.jpg": "./static/media/sven-mieke-_u9lt9KYK1I-unsplash.4f97897a19487284d009.jpg",
+    "index.html": "./index.html",
+    "main.ddbc5bad.css.map": "./static/css/main.ddbc5bad.css.map",
+    "main.bdbcd17e.js.map": "./static/js/main.bdbcd17e.js.map",
+    "787.b0bc5460.chunk.js.map": "./static/js/787.b0bc5460.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddbc5bad.css",
-    "static/js/main.d306b690.js"
+    "static/js/main.bdbcd17e.js"
   ]
 }
